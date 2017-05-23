@@ -8,6 +8,7 @@ https://github.com/soumith/convnet-benchmarks
 https://github.com/jcjohnson/cnn-benchmarks
 https://github.com/ducha-aiki/caffenet-benchmark
 https://github.com/baidu-research/DeepBench
+https://github.com/nicklhy/DLInfBench
 ~~~
 
 RNN
