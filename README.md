@@ -19,4 +19,5 @@ https://github.com/glample/rnn-benchmarks
 Deep learning frameworks:
 ~~~
 https://github.com/gakarak/DeepLearning_Frameworks_Benchmark
+http://dlbench.comp.hkbu.edu.hk/
 ~~~
