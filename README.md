@@ -10,6 +10,7 @@ https://github.com/ducha-aiki/caffenet-benchmark
 https://github.com/baidu-research/DeepBench
 https://github.com/nicklhy/DLInfBench
 https://github.com/albanie/convnet-burden
+https://dawn.cs.stanford.edu/benchmark/
 ~~~
 
 RNN
