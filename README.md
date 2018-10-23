@@ -9,6 +9,7 @@ https://github.com/jcjohnson/cnn-benchmarks
 https://github.com/ducha-aiki/caffenet-benchmark
 https://github.com/baidu-research/DeepBench
 https://github.com/nicklhy/DLInfBench
+https://github.com/albanie/convnet-burden
 ~~~
 
 RNN
@@ -20,4 +21,10 @@ Deep learning frameworks:
 ~~~
 https://github.com/gakarak/DeepLearning_Frameworks_Benchmark
 http://dlbench.comp.hkbu.edu.hk/
+~~~
+
+Other:
+~~~
+https://benchmarks.ai/
+http://rodrigob.github.io/are_we_there_yet/build/
 ~~~
