@@ -11,6 +11,7 @@ https://github.com/baidu-research/DeepBench
 https://github.com/nicklhy/DLInfBench
 https://github.com/albanie/convnet-burden
 https://dawn.cs.stanford.edu/benchmark/
+https://github.com/aizvorski/vgg-benchmarks
 ~~~
 
 RNN
@@ -22,6 +23,11 @@ Deep learning frameworks:
 ~~~
 https://github.com/gakarak/DeepLearning_Frameworks_Benchmark
 http://dlbench.comp.hkbu.edu.hk/
+~~~
+
+Mobile:
+~~~
+http://ai-benchmark.com/
 ~~~
 
 Other:
