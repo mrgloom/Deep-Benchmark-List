@@ -12,6 +12,7 @@ https://github.com/nicklhy/DLInfBench
 https://github.com/albanie/convnet-burden
 https://dawn.cs.stanford.edu/benchmark/
 https://github.com/aizvorski/vgg-benchmarks
+https://github.com/mrgloom/kaggle-dogs-vs-cats-solution
 ~~~
 
 RNN
